@@ -1,7 +1,7 @@
 ### Hi there, I am Ihor!
+[![popey's github stats](https://github-readme-stats.vercel.app/api?username=husakihor&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husakihor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Ihor's github stats](https://github-readme-stats.vercel.app/api?username=husakihor&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husakihor&hide=css,html&layout=compact)
 <!--
 **husakihor/husakihor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
