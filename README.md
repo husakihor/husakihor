@@ -1,6 +1,6 @@
 ### Hi there, I am Ihor!
 
-🔭 I’m currently working on 3D Fractal Visualization with C++
+🔭 I’m currently working on Image Processing, Image Synthesis and Machine Learning applied to images.
 
 🌱 I’m currently learning Unreal Engine
 
